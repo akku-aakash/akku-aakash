@@ -12,14 +12,10 @@ Here are some ideas to get you started:
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
-  <div diplay="flex" flex-direction="column">
-  <div align='left'>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
-  </div>
-    <div align='left'>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
-  </div>
-</div>
+  <a href="https://github.com/akku-aakash">
+  <img align='left' height="170em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
+  <img align='left' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
+  </a>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
