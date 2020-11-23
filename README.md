@@ -5,11 +5,18 @@
 
 Here are some ideas to get you started:
 -->
-### 👨🏻‍💻  About Me
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
   -🤔   Exploring new technologies and developing software solutions and quick hacks. \
   -🎓   Bachelor student at Jaypee Institute of Information Technology. \
   -💼   Web Developer at Axact Studios. \
   -🌱   Open to all Open Source Projects😋 
+  <br/>
+  
+  <a href="https://github.com/malaysrivastava">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
