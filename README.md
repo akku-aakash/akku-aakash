@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-  About Me
-  🤔   Exploring new technologies and developing software solutions and quick hacks.
-  🎓   Bachelor student at Jaypee Institute of Information Technology.
-  💼   Web Developer at Axact Studios.
-  🌱   Open to all Open Source Projects😋
+### About Me
+  -🤔   Exploring new technologies and developing software solutions and quick hacks.
+  -🎓   Bachelor student at Jaypee Institute of Information Technology.
+  -💼   Web Developer at Axact Studios.
+  -🌱   Open to all Open Source Projects😋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Teck Stack
+-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
