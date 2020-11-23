@@ -1,5 +1,4 @@
 ### Hi there! I'm Akash Verma. 👋
-
 <!--
 **akku-aakash/akku-aakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +12,9 @@ Here are some ideas to get you started:
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
-  <a href="https://github.com/akku-aakash">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
-  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
+  <a href="https://github.com/akku-aakash" diplay="flex">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
 </a>
 
 <!-- - 🔭 I’m currently working on ...
