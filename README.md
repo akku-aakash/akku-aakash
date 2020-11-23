@@ -12,14 +12,14 @@ Here are some ideas to get you started:
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
-  <a href="https://github.com/akku-aakash" diplay="flex" flex-direction="row">
+  <div diplay="flex" flex-direction="row">
   <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
   </div>
     <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
   </div>
-</a>
+</div>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
