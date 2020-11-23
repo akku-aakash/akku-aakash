@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there! I'm Akash Verma. 👋
 
 <!--
 **akku-aakash/akku-aakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+  About Me
+  🤔   Exploring new technologies and developing software solutions and quick hacks.
+  🎓   Bachelor student at Jaypee Institute of Information Technology.
+  💼   Web Developer at Axact Studios.
+  🌱   Open to all Open Source Projects😋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
