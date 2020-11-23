@@ -14,13 +14,8 @@ Here are some ideas to get you started:
   
   <a href="https://github.com/akku-aakash">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
+  <img height="170em" width='382px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
   </a>
-  
-  <a href="https://github.com/malaysrivastava">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malaysrivastava&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaysrivastava&theme=buefy&layout=compact" />
-</a>
 
   
   <br />
