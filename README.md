@@ -13,20 +13,20 @@ Here are some ideas to get you started:
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
-  <a href="https://github.com/malaysrivastava">
+  <a href="https://github.com/akku-aakash">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
 </a>
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-### 🛠  Tech Stack
+-->
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 <br/>
 
-### 🤝🏻  Connect with Me
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/aakash-verma-8583291ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akash%20Verma-white?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/akku_akash20/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-akku_akash20-white?style=flat-square&logo=instagram"></a>
 <a href="mailto:akku.aakash124@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akku.aakash124@gmail.com-white?style=flat-square&logo=gmail"></a>
 
-### ⭐️ From `akku-aakash`
+<h3>⭐️ From `akku-aakash` </h3>
