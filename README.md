@@ -1,4 +1,4 @@
-### Hi there! I'm <a href="https://akku-akash.netlify.app/">Akash Verma</a>. 👋
+### Hi there! I'm <a href="https://akku-akash.netlify.app/" target="_blank">Akash Verma</a>. 👋
 <!--
 **akku-aakash/akku-aakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
-  <a href="https://akku-akash.netlify.app/">
+  <a href="https://akku-akash.netlify.app/" target="_blank">
   <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=akku-aakash&theme=buefy&show_icons=true" />
   <img height="180px" width='382px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&theme=buefy&layout=compact" />
   </a>
