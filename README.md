@@ -13,10 +13,8 @@ Here are some ideas to get you started:
   <br/>
   
   <a href="https://akku-akash.netlify.app/" target="_blank">
-  ### Profile Stats ⭐
-  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=akku-aakash&show_icons=true&theme=radical" />
-  ### Top languages 👨‍💻
-  <img height="180px" width='382px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&layout=compact&theme=radical" />
+  <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=akku-aakash&show_icons=true&theme=radical" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akku-aakash&layout=compact&theme=radical" />
   </a>
 
   
