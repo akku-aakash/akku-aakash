@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
   -🤔   Exploring new technologies and developing software solutions and quick hacks. \
