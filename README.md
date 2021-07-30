@@ -1,6 +1,5 @@
 ### Hi there! I'm <a href="https://akku-akash.netlify.app/" target="_blank">Akash Verma</a>. 👋
 <!--
-
 **akku-aakash/akku-aakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
