@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
   -🤔   Exploring new technologies and developing software solutions and quick hacks. \
   -🎓   Bachelor student at Jaypee Institute of Information Technology. \
-  -💼   Web Developer at Axact Studios. \
+  -💼   Full Stack Developer at Fundwave. \
   -🌱   Open to all Open Source Projects😋 
   <br/>
   
